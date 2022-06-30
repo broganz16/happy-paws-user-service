@@ -1,1 +1,1 @@
-# happy-paws-user-service
+# user-service
